@@ -1,2 +1,2 @@
-hoge Snowman
+hoge ほげ
 
